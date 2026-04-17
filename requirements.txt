@@ -1,0 +1,9 @@
+streamlit>=1.40
+pandas>=2.0
+numpy>=1.24
+pandas-gbq>=0.20
+google-cloud-bigquery>=3.14
+google-auth>=2.23
+google-oauthlib>=1.2
+pyarrow>=14.0
+tqdm>=4.66
